@@ -1,0 +1,30 @@
+@charset "utf-8";
+body{
+   background-color: rgb(94,144,206);
+   color: white;
+   
+}
+
+body>h1{
+    text-align: center;
+}
+
+body>section>aside{
+    background-color: rgb(255,255,255,0.5);
+}
+
+footer{
+    background-color:#35424a;
+}
+
+#rightcol a{
+    text-decoration: none;
+    color:rgb(64, 64, 172)
+}
+
+header>nav>ul>li>a{
+    text-decoration: none;
+    color:white
+}
+/* rgb(66b,3eb) */
+/* <!--  footer background: #35424a --> */
